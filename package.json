@@ -1,5 +1,5 @@
 {
-  "name": "domify",
+  "name": "domfinity",
   "version": "0.1.0",
   "description": "Replace HTML with JavaScript!",
   "main": "app/index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/foobarpie/domify.git"
+    "url": "git+https://github.com/foobarpie/domfinity.git"
   },
   "author": "Foo Bar (foobarpie)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/foobarpie/domify/issues"
+    "url": "https://github.com/foobarpie/domfinity/issues"
   },
-  "homepage": "https://github.com/foobarpie/domify#readme",
+  "homepage": "https://github.com/foobarpie/domfinity#readme",
   "devDependencies": {
     "babel-preset-es2015": "^6.5.0",
     "jasmine": "^2.4.1",
@@ -29,13 +29,11 @@
     "directories": {
       "test": "test"
     },
-    "dependencies": {
-      "jasmine": "npm:jasmine@^2.4.1"
-    },
     "devDependencies": {
       "babel": "npm:babel-core@^5.8.24",
       "babel-runtime": "npm:babel-runtime@^5.8.24",
-      "core-js": "npm:core-js@^1.1.4"
+      "core-js": "npm:core-js@^1.1.4",
+      "jasmine": "npm:jasmine@^2.4.1"
     }
   }
 }
