@@ -11,13 +11,15 @@ var paragraph = dom.makeElement('p');
 paragraph.textContent = 'This is a paragraph';
 
 ```
+In any web browser
+(pic showing the paragraph goes here)
+
 
 #Install#
 ```
-npm install domify
+npm install domfinity
 ```
 
-In any web browser
 
 
 
