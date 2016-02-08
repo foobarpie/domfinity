@@ -29,4 +29,7 @@ Make your improvements then
 ```
 gulp build
 ```
-Make sure it works!
+Make sure it works! To run tests
+```
+jasmine
+```
