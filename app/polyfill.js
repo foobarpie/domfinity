@@ -1,9 +1,6 @@
 /**
  * Created by timur on 2/7/16.
  */
-/**
- * Created by timur on 2/7/16.
- */
 // This makes it so changing the textContent will work on ie8
 if (Object.defineProperty
   && Object.getOwnPropertyDescriptor
