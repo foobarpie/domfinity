@@ -25,6 +25,7 @@
     "gulp": "^3.9.0",
     "gulp-babel": "^6.1.2",
     "gulp-concat": "^2.6.0",
+    "gulp-jasmine": "^2.2.1",
     "gulp-minify": "0.0.5",
     "install": "^0.4.2",
     "jasmine": "^2.4.1",
