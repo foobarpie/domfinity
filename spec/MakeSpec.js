@@ -6,7 +6,7 @@
  * This describes the makeElement and make(SpecificElement) functions.
  */
 
-//import dom from 'domfinity';
+//var dom = require('domfinity');
 
 describe('makeElement', () => {
   describe('collaborator tests,', () => {
