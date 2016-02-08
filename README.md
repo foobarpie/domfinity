@@ -1,1 +1,1 @@
-**Replace HTML with vanilla javascript.**
+**Replace HTML with JavaScript**
