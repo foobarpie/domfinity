@@ -1,0 +1,22 @@
+{
+  "name": "domify",
+  "version": "0.1.0",
+  "description": "Replace HTML with JavaScript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foobarpie/domify.git"
+  },
+  "author": "Foo Bar (foobarpie)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foobarpie/domify/issues"
+  },
+  "homepage": "https://github.com/foobarpie/domify#readme"
+}
