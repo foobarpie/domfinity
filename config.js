@@ -1,5 +1,5 @@
 System.config({
-  baseURL: "https://github.com/foobarpie/domify.git",
+  baseURL: "/app",
   defaultJSExtensions: true,
   transpiler: "babel",
   babelOptions: {
