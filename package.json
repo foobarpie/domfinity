@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/foobarpie/domfinity.git"
   },
-  "author": "Foo Bar (foobarpie)",
+  "author": "Foo Bar <foobarpie@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/foobarpie/domfinity/issues"
