@@ -27,5 +27,7 @@ gulp build
 ```
 Make sure it works! To run tests
 ```
-jasmine
+gulp test
+// or
+gulp build && gulp test
 ```

@@ -32,6 +32,7 @@
     "jspm": "^0.16.27"
   },
   "jspm": {
+    "format": "es6",
     "directories": {
       "test": "test"
     },

@@ -5,12 +5,12 @@
 /**
  * This describes the makeElement and make(SpecificElement) functions.
  */
-
-//var dom = require('domfinity');
+var dom = require('domfinity');
 
 describe('makeElement', () => {
   describe('collaborator tests,', () => {
     it('shows how to do the thing', () => {
+      dom.makeElement('p');
       expect(true).toBe(true);
     })
   });
