@@ -1,7 +1,7 @@
 {
   "name": "domify",
   "version": "0.1.0",
-  "description": "Replace HTML with JavaScript",
+  "description": "Replace HTML with JavaScript!",
   "main": "app/index.js",
   "directories": {
     "test": "test",
