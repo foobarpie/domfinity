@@ -23,3 +23,10 @@ npm install domfinity
 npm install --save-dev // Do not include the node_modules folder in any commits!
 jspm install // Do not include the jspm_packages folder in any commits!
 ```
+
+Make your improvements then
+
+```
+gulp build
+```
+Make sure it works!
