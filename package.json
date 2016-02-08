@@ -4,7 +4,8 @@
   "description": "Replace HTML with JavaScript",
   "main": "index.js",
   "directories": {
-    "test": "test"
+    "test": "test",
+    "packages": "jspm_packages"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +19,22 @@
   "bugs": {
     "url": "https://github.com/foobarpie/domify/issues"
   },
-  "homepage": "https://github.com/foobarpie/domify#readme"
+  "homepage": "https://github.com/foobarpie/domify#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "jspm": "^0.16.27"
+  },
+  "jspm": {
+    "directories": {
+      "test": "test"
+    },
+    "dependencies": {
+      "jasmine": "npm:jasmine@^2.4.1"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  }
 }
