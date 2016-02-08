@@ -2,10 +2,7 @@
 
 #Usage#
 
-#Install#
 ```
-npm install domify
-
 // index.js
 
 var dom = require('domfinity');
@@ -13,6 +10,11 @@ var dom = require('domfinity');
 var paragraph = dom.makeElement('p');
 paragraph.textContent = 'This is a paragraph';
 
+```
+
+#Install#
+```
+npm install domify
 ```
 
 In any web browser
