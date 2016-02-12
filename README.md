@@ -3,13 +3,10 @@
 
 ###Node###
 ```
-
 var dom = require('domfinity');
 
 var paragraph = dom.makeElement('p');
 paragraph.textContent = 'This is a paragraph';
-
-
 ```
 In any web browser
 (pic showing the paragraph goes here)
